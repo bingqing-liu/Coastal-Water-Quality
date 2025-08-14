@@ -1,6 +1,6 @@
-# Jupyter Book Demo
+# Coastal Water Quality
 
-This is a Jupyter book demo
+
 
 ## Usage
 
